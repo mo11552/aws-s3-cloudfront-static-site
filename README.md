@@ -11,3 +11,8 @@ This project demonstrates hosting a static website using Amazon S3 and CloudFron
 - Static website hosting
 - Public access configuration
 - CDN distribution for global delivery
+
+## 🌐 Live Website
+
+CloudFront URL:
+https://djdzwaq4wbe9y.cloudfront.net
